@@ -1,5 +1,5 @@
 {
-  "bg": "https://www.hardware.com.br/static/20160428/big.jpg",
+  "bg": "/big.webp",
   "title": "Quiz Big Data",
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
