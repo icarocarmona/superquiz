@@ -56,7 +56,11 @@
   ],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
-    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+    "https://sotc-quiz.lucianowribeiro.vercel.app/",
+    "https://next-quiz.jeffersondenilson.vercel.app/",
+    "https://narutoquiz-base.vitor-kb.vercel.app/",
+    "https://aluraquiz.matheusjos3.vercel.app/"
   ],
   "theme": {
     "colors": {
