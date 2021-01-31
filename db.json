@@ -1,34 +1,63 @@
 {
   "bg": "/big.webp",
   "title": "Quiz Big Data",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "description": "Teste os seus conhecimentos sobre Big Data e vamos ver o quanto conhece de dados",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "teste",
-      "description": "asdsada aquecer",
-      "answer": 2,
-      "alternatives": [".asdasdento", "asdad", "asd#elemento", "asd%elemento"]
+      "image": "https://2.bp.blogspot.com/-LUhnH_LTsjU/W8qmd-OvjjI/AAAAAAAABJ4/-DrY30bqmMcSraZkBIoxOS9h-8L6j3-xwCLcBGAs/s1600/HideousJampackedEquine-size_restricted.gif",
+      "title": "Características de Big Data",
+      "description": "As características básicas de Big Data atuais são...?",
+      "answer": 3,
+      "alternatives": ["3", "2", "4", "5"]
     },
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://media4.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=ecf05e47tee31n8oe05zact9zoryeb8pd1r2m2hs2vby0c4d&rid=giphy.gif",
+      "title": "Ainda sobre as características",
+      "description": "Qual opção não faz parte das principais características de Big Data?",
       "answer": 2,
-      "alternatives": [".elemento", "*elemento", "#elemento", "%elemento"]
+      "alternatives": ["Velocidade", "Volume", "Vulnerabilidade", "Veracidade"]
     },
     {
       "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "title": "Desafios",
+      "description": "Os desafios de Big Data incluem o seguinte, exceto ...",
+      "answer": 2,
       "alternatives": [
-        "background: linear-gradient(#e66465, #9198e5);",
-        "background: gradient(#e66465, #9198e5);"
+        "Data analysis",
+        "Data visualization",
+        "Data interpretation",
+        "Data storage"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/HZpCCbcWc0a3u/giphy.gif",
+      "title": "Ferramentas",
+      "description": "Qual das ferramentas não faz parte do mundo Big Data?",
+      "answer": 3,
+      "alternatives": [
+        "Debezium",
+        "Pangool",
+        "Seahorse",
+        "Gorebyss"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l4hLXsEZ9IHThIjWo/giphy.gif",
+      "title": "Ferramentas",
+      "description": "Qual das ferramentas não é um Scheduler?",
+      "answer": 2,
+      "alternatives": [
+        "Azkaban",
+        "Rundeck",
+        "Seahorse",
+        "Oozie"
       ]
     }
   ],
-  "external": [""],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
   "theme": {
     "colors": {
       "primary": "#0d47a1",
